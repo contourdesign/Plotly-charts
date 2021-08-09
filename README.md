@@ -4,6 +4,8 @@ Fun with Plotly using Python and Jupyter Notebooks!
 
 <img src="tesla-hi-lo.png" width=600 /><br>
 
+<img src="pop-CA.png" width=600 /><br>
+
 <img src="pubg-3d-plot.png" width=600 /><br>
 
 <img src="nba_box_whisker.png" width=600 /><br>
